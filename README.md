@@ -14,7 +14,7 @@
 - 🎓 Estudiante de **Ingeniería de Sistemas e Informática**
 - 💼 **Técnica en Ingeniería de Software** con experiencia en desarrollo web
 - 🌟 **Apasionada** por crear soluciones tecnológicas innovadoras
-- 📍 **El Alto, Talara, Piura, Perú**
+- 📍 **Piura, Perú**
 - ⚡ **Datos curiosos**: Amante del código limpio, la innovación y el aprendizaje continuo
 
 ## 📞 Contáctame
